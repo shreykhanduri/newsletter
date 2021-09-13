@@ -1,0 +1,4 @@
+{
+  "amqp": "amqp://localhost",
+  "queue": "nodemailer-amqp"
+}
